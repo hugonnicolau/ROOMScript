@@ -99,7 +99,7 @@ conda activate tools_qc
 
 ---
 
-## Autor e Contatos
+## Autor e Contactos
 
 Este projeto foi desenvolvido por **Hugo Nicolau**, aluno do **Mestrado em Bioinformática e Biologia Computacional** da Faculdade de Ciências da Universidade de Lisboa.
 
