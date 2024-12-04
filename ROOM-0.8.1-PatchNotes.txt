@@ -1,4 +1,4 @@
-ROOM-0.0.2 - PatchNotes
+ROOM-0.8.1 - PatchNotes
 
 - Gerar summary para todas as leituras PE e SE.
 - Guardar Ficheiro.txt com os parâmetros utilizados pelo Trimmomatic.
