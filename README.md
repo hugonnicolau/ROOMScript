@@ -84,8 +84,8 @@ conda activate tools_qc
 
 ## Notas Importantes
 
-- **Alteração de Caminhos**: Caso queira modificar a localização das entradas ou saídas, atualize os paths no script. 
-- **Logs**: Durante a execução do Trimmomatic, um arquivo de resumo (e.g., `trimPE_log.txt` ou `trimSE_log.txt`) será gerado contendo estatísticas do corte.
+- **Alteração de Paths**: Caso queira modificar a localização das entradas ou saídas, atualize os paths no script. 
+- **Logs**: Durante a execução do Trimmomatic, um arquivo de resumo (e.g., `trimPE_log.txt` ou `trimSE_log.txt`) será gerado e contem estatísticas do corte.
 - **Erros em Arquivos**: Verifique se os arquivos FASTQ estão no formato esperado e se `samples.txt` foi preenchido corretamente.
 
 ---
