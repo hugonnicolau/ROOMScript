@@ -1,8 +1,10 @@
-ROOM-0.0.2
+ROOM-0.0.2 - PatchNotes
 
---> Pequeno patch
+- Gerar summary para todas as leituras PE e SE.
+- Guardar Ficheiro.txt com os parâmetros utilizados pelo Trimmomatic.
+- Gerar relatório de erro.
+- Melhoramentos estéticos.
 
-- Gerar summary para todas as leituras PE e SE.\
-- Guardar Ficheiro.txt com os par\'e2metros utilizados pelo Trimmomatic.\
-- Gerar relat\'f3rios de erro.\
-- Melhoramentos est\'e9ticos.}
+Em curso ...
+
+
