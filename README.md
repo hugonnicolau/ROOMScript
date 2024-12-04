@@ -1,4 +1,4 @@
-# ROOMScript
+# ROOM - Script
 
 ## Descrição do Projeto
 
